@@ -18,7 +18,7 @@
         </g>
         </svg>
 
-    <p class="text-5xl font-pokefont text-red-600 transform transition hover:scale-125">Pok<span class="text-yellow-500">images</span></p>
+    <p class="text-5xl font-pokefont font-rubik text-red-600 transform transition hover:scale-125">Pok<span class="text-yellow-500">images</span></p>
 </div>
 
 <style>
